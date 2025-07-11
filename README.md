@@ -16,3 +16,5 @@
 - react-toastify
 - tailwind
 # FullStack-Recipeapp
+
+<img src="Recipes.gif"/>
